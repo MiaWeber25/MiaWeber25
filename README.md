@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiaWeber25
-- 👀 I’m interested in computer science and cybersecurity
+- 👀 I’m interested in computer science, cybersecurity, and DevOps
 - 🌱 I’m currently learning Go and C++
 - 📫 You can reach me at miaweber02@gmail.com
 
